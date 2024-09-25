@@ -1,0 +1,24 @@
+html, body {
+    height: 100%;
+    margin: 0;
+  }
+  
+  .dashboard-container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* Ensure the container takes full viewport height */
+  }
+  
+  .container {
+    flex-grow: 1; /* Allow the main content area to grow and take available space */
+    padding: 20px; /* Add padding for spacing */
+  }
+  
+  .footer {
+    background-color: #343a40; /* Dark background for the footer */
+    color: white; /* White text color */
+    text-align: center;
+    padding: 10px 0; /* Padding for the footer */
+    position: relative; /* Ensure footer is below the content */
+  }
+  
