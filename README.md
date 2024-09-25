@@ -5,5 +5,10 @@ I have successfully completed user authentication using React.js, Node.js, Mongo
 Login page
 ![image alt](https://github.com/Prakashshelby/userauthentication/blob/8088bdd50e21b0b16e311fd93dc9d61a827feb8a/LogIn_Page.png)
 
+
 Register Page
 ![image alt](https://github.com/Prakashshelby/userauthentication/blob/871675e1de74fe1a2da86ac7fd411c5e5cecaac1/Register_Page.png)
+
+
+Dashboard Page
+![image alt](https://github.com/Prakashshelby/userauthentication/blob/b22d7eed405029dfbd887f0939be1e59460f2f28/Dashboard_Page.png)
